@@ -1,0 +1,41 @@
+body{ 
+    background-color: aquamarine;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size:15px;
+}
+
+button{
+    background: pink;
+    box-shadow: 4px 4px 5px #888888;
+    color: rgb(13, 134, 94);
+    
+}
+#Q1 {
+    padding: 10px;
+  }
+
+  .buttons1 {
+    padding: 10px;
+  }
+
+  button {
+    margin: 5px;
+    /* background-color: red; */
+    border-radius: 5px;
+  }
+
+
+  img {
+    height: 200px;
+    width: 250px;
+  }
+  .blue{
+      background-color: palevioletred;
+  }
+  #answersTotal{
+    padding: 20px;
+    margin: 20px;
+  }
